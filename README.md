@@ -8,6 +8,7 @@ To use as a learning tool, to better understand the basics of http requests and 
 Finsihed.
 
 ## Screenshots
+![Hello World!](https://github.com/chriswhitehouse/http_servers/blob/main/Screenshot%202020-12-10%20at%2020.12.44.png)
 
 ## Tech/framework used
 Ruby with socket gem.
